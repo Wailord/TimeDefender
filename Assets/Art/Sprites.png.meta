@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: ac7742fcbbef6d74dab7879fe71317ed
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wiz1
+    21300002: Wiz2
+    21300004: Play_pressed
+    21300006: Scores_pressed
+    21300008: Scores
+    21300010: Play
+    21300012: GrassSprite
+    21300014: StraightHorizontalRoadSprite
+    21300016: LeftAndDownRoadSprite
+    21300018: Tower
+    21300020: Farmer1
+    21300022: CrossRoad
+    21300024: SplitUDL_Sprite
+    21300026: CrossRoadSprite
+    21300028: LeftAndRightRoadSprite
+    21300030: Villager
+    21300032: Sprites_13
+    21300034: Caveman
+    21300036: Knight
+    21300038: Soldier
+    21300040: Swat
+    21300042: Tric
+    21300044: Trex
+    21300046: LRStreetSprite
+    21300048: StreeTurnTile
+    21300050: SplitUDL_Road
+    21300052: Split4Ways_Road
+    21300054: TowerPlot
+    21300056: DecorFlowers
+    21300058: Villager2
+    21300060: Sprites_0
+    21300062: Caveman2
+    21300064: DecorMountain
+    21300066: Sprites_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wiz1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 309
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 0, z: 0, w: 1}
+    - name: Wiz2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 1, z: 0, w: 2}
+    - name: Play_pressed
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 48
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scores_pressed
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 16
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Scores
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 48
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Play
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 16
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrassSprite
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftAndRightRoadSprite
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftAndDownRoadSprite
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Villager
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 458
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CrossRoadSprite
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SplitUDL_Sprite
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 457
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 458
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Swat
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tric
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 314
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trex
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 238
+        width: 109
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LRStreetSprite
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StreeTurnTile
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SplitUDL_Road
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Split4Ways_Road
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerPlot
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DecorFlowers
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Villager2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 458
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 457
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DecorMountain
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 115
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
